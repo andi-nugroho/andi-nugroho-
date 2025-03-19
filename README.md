@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Andi, a passionate software developer. I enjoy creating applications and exploring new technologies. Let's connect!
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
-  <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andi-nugroho/andi-nugroho/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/andi-nugroho/andi-nugroho/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/andi-nugroho/andi-nugroho/raw/output/github-snake.svg">
 </picture>
 
 
