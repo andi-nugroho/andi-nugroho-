@@ -1,10 +1,14 @@
 # 💫 About Me:
 👋 Hi, I'm Andi, a passionate software developer. I enjoy creating applications and exploring new technologies. Let's connect!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andi-nugroho/andi-nugroho/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/andi-nugroho/andi-nugroho/raw/output/github-snake.svg">
-  <img alt="snk" src="https://github.com/andi-nugroho/andi-nugroho/raw/output/github-snake.svg">
-</picture>
+<!-- Snake Game -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
+  </picture>
 
 
 # 💻 Tech Stack:
