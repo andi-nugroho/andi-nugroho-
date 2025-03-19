@@ -1,5 +1,10 @@
 # 💫 About Me:
 👋 Hi, I'm Andi, a passionate software developer. I enjoy creating applications and exploring new technologies. Let's connect!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+</picture>
 
 
 # 💻 Tech Stack:
@@ -11,7 +16,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andi-nugroho&icon=0&color=0)](https://visitcount.itsvg.in)
-![snake gif](https://github.com/andi-nugroho/andi-nugroho/blob/main/github-user-contribution.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
