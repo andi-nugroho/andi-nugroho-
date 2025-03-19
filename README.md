@@ -14,4 +14,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snek go brr](https://raw.githubusercontent.com/andi-nugroho/andi-nugroho/snakeyborn/snek-dark.svg)
