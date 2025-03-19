@@ -11,6 +11,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andi-nugroho&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/andi-nugroho/andi-nugroho/blob/main/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
